@@ -1,6 +1,10 @@
 # exampleCode
 Examples of code I have written.
 
+# C++:
+ - From 2016-2020:
+   - BufferedFileWriter.cpp, .h:  buffering of file writes, coding style is for embedded systems (static allocation)
+
 # C#:
  - From 2016-2020:
    - ArgCheck.cs:  argument (parameter) checking.
